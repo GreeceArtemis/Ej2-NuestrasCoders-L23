@@ -15,8 +15,11 @@ img{
 }
 span{
   position: absolute;
-  right: 10px;
-  bottom: 20px;
+  right: 2px;
+  bottom: 10px;
+  font-family: 'Stint Ultra Expanded', cursive;
+  color: white;
+  font-size: 12px;
 }
 
 section{
@@ -28,4 +31,11 @@ h1{
   margin: 20px;
   font-family: 'Stint Ultra Expanded', cursive;
 
+}
+.guion{
+  margin-top: 5px;
+  display:block;
+  width: 100px;
+  height: 10px;
+  background-color: black;
 }
